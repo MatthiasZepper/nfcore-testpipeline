@@ -2,7 +2,7 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://raw.githubusercontent.com/nf-core/testpipeline/main/nextflow_schema.json",
     "title": "nf-core/testpipeline pipeline parameters",
-    "description": "An example pipeline used to test new nf-core infrastructure and common code.",
+    "description": "Testing the new download action",
     "type": "object",
     "$defs": {
         "input_output_options": {

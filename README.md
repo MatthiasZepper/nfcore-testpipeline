@@ -2,8 +2,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/nf-core-testpipeline_logo_dark.png">
     <img alt="nf-core/testpipeline" src="docs/images/nf-core-testpipeline_logo_light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/nf-core-testpipeline_logo_dark.png">
-    <img alt="nf-core/testpipeline" src="docs/images/nf-core-testpipeline_logo_light.png">
   </picture>
 </h1>
 
@@ -81,7 +79,7 @@ For more details about the output files and reports, please refer to the
 
 ## Credits
 
-nf-core/testpipeline was originally written by nf-core.
+nf-core/testpipeline was originally written by Matthias.
 
 We thank the following people for their extensive assistance in the development of this pipeline:
 
@@ -109,5 +107,3 @@ You can cite the `nf-core` publication as follows:
 > Philip Ewels, Alexander Peltzer, Sven Fillinger, Harshil Patel, Johannes Alneberg, Andreas Wilm, Maxime Ulysse Garcia, Paolo Di Tommaso & Sven Nahnsen.
 >
 > _Nat Biotechnol._ 2020 Feb 13. doi: [10.1038/s41587-020-0439-x](https://dx.doi.org/10.1038/s41587-020-0439-x).
-
-this is a test
