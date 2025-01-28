@@ -1,0 +1,15 @@
+repository_type: pipeline
+
+nf_core_version: 3.3.0.dev0
+
+lint: {}
+
+template:
+  org: nf-core
+  name: downhill
+  description: Test the download action again.
+  author: nf-core member
+  version: 1.0.0dev
+  force: true
+  outdir: nfcore-testpipeline
+  is_nfcore: true
